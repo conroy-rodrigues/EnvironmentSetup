@@ -1,0 +1,28 @@
+{
+    "PenguinPath": "C:\\Source\\Penguin\\",
+    "BaseVersion": "TTTT_Version",
+    "ScriptVersionChangeTo": "31.00",
+    "PenguinWebScriptFiles": [
+        "PenguinWeb\\CoverMore.PenguinWeb.AgencyAdmin\\AgencyAdmin\\script",    
+        "PenguinWeb\\CoverMore.PenguinWeb.AgencyAdminMVC\\AgencyAdminMvc\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\AgencyAdmin\\script",
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\AgencyAdminMVC\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\PolicyAdmin\\script", 
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\PolicyAdminMVC\\Scripts", 
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\PurchasePath\\script", 
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\PurchasePathMVC\\Scripts", 
+        "PenguinWeb\\CoverMore.PenguinWeb.B2B\\Scripts", 
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\AgencyAdmin\\script", 
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\AgencyAdminMvc\\Scripts", 
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\PolicyAdmin\\script",
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\PolicyAdminMVC\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\PurchasePath\\script",
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\PurchasePathMVC\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.CRM\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.PolicyAdmin\\PolicyAdmin\\script",
+        "PenguinWeb\\CoverMore.PenguinWeb.PolicyAdminMvc\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.PurchasePath\\PurchasePath\\script",
+        "PenguinWeb\\CoverMore.PenguinWeb.PurchasePathMvc\\PurchasePathMvc\\Scripts",
+        "PenguinWeb\\CoverMore.PenguinWeb.Shared\\Scripts"
+    ]
+}
