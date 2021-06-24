@@ -7,11 +7,11 @@
 
 #Script variable
 $configuration      =  Get-Content -Path '..\config.json' | ConvertFrom-Json
-$scriptVersion      = $configuration.ScriptVersionChangeTo
+$scriptVersion      = $configuration.PenguinWebScriptVersionChangeTo
 $penguinBasePath    = $configuration.PenguinPath
-$baseVersion        = $configuration.BaseVersion
+$baseVersion        = $configuration.PenguinWebBaseVersion
 
-$availableScriptPaths = $configuration.PenguinWebScriptFiles
+$availableScriptPaths = $configuration.PenguinWebScriptFileLocations
 
 Write-Output "Setting PeguinWeb with :$scriptVersion version"
 

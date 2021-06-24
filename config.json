@@ -1,8 +1,8 @@
 {
     "PenguinPath": "C:\\Source\\Penguin\\",
-    "BaseVersion": "TTTT_Version",
-    "ScriptVersionChangeTo": "31.00",
-    "PenguinWebScriptFiles": [
+    "PenguinWebBaseVersion": "TTTT_Version",
+    "PenguinWebScriptVersionChangeTo": "321.00",
+    "PenguinWebScriptFileLocations": [
         "PenguinWeb\\CoverMore.PenguinWeb.AgencyAdmin\\AgencyAdmin\\script",    
         "PenguinWeb\\CoverMore.PenguinWeb.AgencyAdminMVC\\AgencyAdminMvc\\Scripts",
         "PenguinWeb\\CoverMore.PenguinWeb.B2B\\AgencyAdmin\\script",
